@@ -1,5 +1,5 @@
-# kidsee
-Reinventing Parenting
+# Camping
+Camping
 
 ## Project setup
 ```
